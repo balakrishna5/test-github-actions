@@ -1,0 +1,32 @@
+{
+  "name": "test-github-actions",
+  "version": "1.0.0",
+  "description": "This package is to test the GitHub Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balakrishna5/test-github-actions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "in",
+    "git"
+  
+  ],
+  "author": "Balakrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balakrishna5/test-github-actions/issues"
+  },
+  "homepage": "https://github.com/balakrishna5/test-github-actions#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
