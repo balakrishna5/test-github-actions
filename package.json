@@ -1,5 +1,5 @@
 {
-  "name": "test-github-actions",
+  "name": "@balakrishna5/test-github-actions",
   "version": "1.0.2",
   "description": "This package is to test the GitHub Packages",
   "main": "index.js",
